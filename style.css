@@ -1,7 +1,7 @@
 .hiro{
-    display: grid;
+    display: inline-grid;;
     gap: 10px;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 2fr 1fr;
 }
 .hiro>div{
     width: 400px;

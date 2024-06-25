@@ -14,3 +14,8 @@
     grid-column-start: 1;
     grid-column-end: 2;
 }
+.hiro>div:nth-child(2){
+    background-color: rgb(176, 78, 36);
+    grid-column-start: 1;
+    grid-column-end: 3;
+}

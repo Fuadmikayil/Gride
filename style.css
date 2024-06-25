@@ -2,7 +2,7 @@
     display: grid;;
     gap: 10px;
     grid-template-columns: 1fr 1fr  1fr 1fr;
-    row-gap: 50px;
+    gap: 50px 100px;
 }
 .hiro>div{
     width: 400px;

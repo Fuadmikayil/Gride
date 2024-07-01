@@ -24,3 +24,8 @@ body{
     object-fit: cover;
     
 }
+.hiro>.service_text{
+    display: grid;
+    place-items: center;
+    background-color: white;
+}

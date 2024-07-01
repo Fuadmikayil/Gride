@@ -4,18 +4,3 @@
     grid-template-columns: 1fr 1fr  1fr 1fr;
     gap: 50px 100px;
 }
-.hiro>div{
-    width: 400px;
-    height: 300px;
-    background-color: rgb(216, 12, 235);
-}
-.hiro>div:nth-child(1){
-    background-color: teal;
-    grid-column-start: 1;
-    grid-column-end: 2;
-}
-.hiro>div:nth-child(2){
-    background-color: rgb(176, 78, 36);
-    grid-column-start: 1;
-    grid-column-end: 3;
-}
